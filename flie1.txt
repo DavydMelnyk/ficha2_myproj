@@ -10,4 +10,8 @@ Este é o exemplo de um ficheiro de texto flie1
 fiz uma alteracao
 Alteracao efetuada no branch NovaFeature
 
+
 Alteracao no branch NOVAFEATURE
+
+Alteracao no branch MASTER
+

@@ -1,6 +1,14 @@
 Este é um exeplo de ficheiro file2
 
 
+
+<h2>Bebidas</h2>
+
+<ul>
+  <li>Coffee</li>
+  <li>Tea</li>
+  <li>Milk</li>
+
 <h1>Listas de coisas</h1>
 
 
@@ -10,4 +18,5 @@ Este é um exeplo de ficheiro file2
   <li>Bolos</li>
   <li>Tostas</li>
   <li>Sandes</li>
+
 </ul>
